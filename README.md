@@ -43,3 +43,19 @@ A **Streamlit** allows users to interactively test inputs and explore insights.
 4. **Evaluation** – Compared R², RMSE and MAE scores.  
 5. **Visualization & App** – Built interactive dashboard with Streamlit.
 
+
+
+## 🏁 Results
+
+✅ Built a **YouTube Ad Revenue Prediction App** using **Streamlit** and **Linear Regression**  
+✅ Achieved strong correlation between views, engagement, and ad revenue  
+✅ Interactive dashboard with:
+- Revenue prediction based on user input  
+- Visual insights for category, device, and country performance  
+- Feature importance analysis for better monetization strategy  
+
+📊 **Key Insight:** 
+
+Watch time and views have the highest positive impact on revenue.
+
+---
